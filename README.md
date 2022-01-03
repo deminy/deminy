@@ -18,5 +18,11 @@ Demin is a staff engineer and technical lead at Electronic Arts (EA), focusing o
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3944](https://github.com/swoole/swoole-src/issues/3944) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+2. 🗣 Commented on [#144](https://github.com/swoole/library/issues/144) in [swoole/library](https://github.com/swoole/library)
+3. 🗣 Commented on [#144](https://github.com/swoole/library/issues/144) in [swoole/library](https://github.com/swoole/library)
+4. 🎉 Merged PR [#33](https://github.com/swoole/ide-helper/pull/33) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+5. 🗣 Commented on [#4543](https://github.com/swoole/swoole-src/issues/4543) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+<!--END_SECTION:activity-->
 
 </details>
