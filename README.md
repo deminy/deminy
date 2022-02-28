@@ -18,11 +18,11 @@ Demin is a staff engineer and technical lead at Electronic Arts (EA), focusing o
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#719](https://github.com/simplepie/simplepie/pull/719) in [simplepie/simplepie](https://github.com/simplepie/simplepie)
-2. 🗣 Commented on [#4586](https://github.com/swoole/swoole-src/issues/4586) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-3. 🗣 Commented on [#34](https://github.com/swoole/ide-helper/issues/34) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-4. ❗️ Closed issue [#34](https://github.com/swoole/ide-helper/issues/34) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-5. 🗣 Commented on [#3944](https://github.com/swoole/swoole-src/issues/3944) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+1. 🗣 Commented on [#8](https://github.com/swoole/awesome-swoole/issues/8) in [swoole/awesome-swoole](https://github.com/swoole/awesome-swoole)
+2. 🎉 Merged PR [#8](https://github.com/swoole/awesome-swoole/pull/8) in [swoole/awesome-swoole](https://github.com/swoole/awesome-swoole)
+3. 💪 Opened PR [#719](https://github.com/simplepie/simplepie/pull/719) in [simplepie/simplepie](https://github.com/simplepie/simplepie)
+4. 🗣 Commented on [#4586](https://github.com/swoole/swoole-src/issues/4586) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+5. 🗣 Commented on [#34](https://github.com/swoole/ide-helper/issues/34) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
 <!--END_SECTION:activity-->
 
 </details>
