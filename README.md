@@ -18,10 +18,10 @@ Demin is a staff engineer and technical lead at Electronic Arts (EA), focusing o
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#97](https://github.com/xsolla/xsolla-sdk-php/pull/97) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
-2. 🗣 Commented on [#97](https://github.com/xsolla/xsolla-sdk-php/issues/97) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
-3. 💪 Opened PR [#97](https://github.com/xsolla/xsolla-sdk-php/pull/97) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
-4. ❗️ Opened issue [#95](https://github.com/xsolla/xsolla-sdk-php/issues/95) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
+1. 🎉 Merged PR [#31](https://github.com/swoole/docker-swoole/pull/31) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+2. ❌ Closed PR [#97](https://github.com/xsolla/xsolla-sdk-php/pull/97) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
+3. 🗣 Commented on [#97](https://github.com/xsolla/xsolla-sdk-php/issues/97) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
+4. 💪 Opened PR [#97](https://github.com/xsolla/xsolla-sdk-php/pull/97) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
 5. 🗣 Commented on [#4586](https://github.com/swoole/swoole-src/issues/4586) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
 <!--END_SECTION:activity-->
 
