@@ -18,11 +18,11 @@ Demin is a staff engineer and technical lead at Electronic Arts (EA), focusing o
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/swoole/library/pull/152) in [swoole/library](https://github.com/swoole/library)
-2. 🎉 Merged PR [#31](https://github.com/swoole/docker-swoole/pull/31) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-3. ❌ Closed PR [#97](https://github.com/xsolla/xsolla-sdk-php/pull/97) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
-4. 🗣 Commented on [#97](https://github.com/xsolla/xsolla-sdk-php/issues/97) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
-5. 💪 Opened PR [#97](https://github.com/xsolla/xsolla-sdk-php/pull/97) in [xsolla/xsolla-sdk-php](https://github.com/xsolla/xsolla-sdk-php)
+1. ❗️ Closed issue [#33](https://github.com/swoole/docker-swoole/issues/33) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+2. 🗣 Commented on [#33](https://github.com/swoole/docker-swoole/issues/33) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+3. ❗️ Closed issue [#32](https://github.com/swoole/docker-swoole/issues/32) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+4. 🗣 Commented on [#32](https://github.com/swoole/docker-swoole/issues/32) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+5. 🗣 Commented on [#4819](https://github.com/swoole/swoole-src/issues/4819) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
 <!--END_SECTION:activity-->
 
 </details>
