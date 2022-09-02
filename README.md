@@ -18,11 +18,11 @@ Demin is a staff engineer and technical lead at Electronic Arts (EA), focusing o
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#33](https://github.com/swoole/docker-swoole/issues/33) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-2. 🗣 Commented on [#33](https://github.com/swoole/docker-swoole/issues/33) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-3. ❗️ Closed issue [#32](https://github.com/swoole/docker-swoole/issues/32) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-4. 🗣 Commented on [#32](https://github.com/swoole/docker-swoole/issues/32) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-5. 🗣 Commented on [#4819](https://github.com/swoole/swoole-src/issues/4819) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+1. 💪 Opened PR [#4821](https://github.com/swoole/swoole-src/pull/4821) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+2. 💪 Opened PR [#4820](https://github.com/swoole/swoole-src/pull/4820) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+3. ❗️ Closed issue [#33](https://github.com/swoole/docker-swoole/issues/33) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+4. 🗣 Commented on [#33](https://github.com/swoole/docker-swoole/issues/33) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+5. ❗️ Closed issue [#32](https://github.com/swoole/docker-swoole/issues/32) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 <!--END_SECTION:activity-->
 
 </details>
