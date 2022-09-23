@@ -18,11 +18,11 @@ Demin is a staff engineer and technical lead at Electronic Arts (EA), focusing o
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/swoole/ide-helper/issues/19) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-2. 🗣 Commented on [#19](https://github.com/swoole/ide-helper/issues/19) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-3. 🗣 Commented on [#4824](https://github.com/swoole/swoole-src/issues/4824) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+1. 🗣 Commented on [#4837](https://github.com/swoole/swoole-src/issues/4837) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+2. ❗️ Closed issue [#19](https://github.com/swoole/ide-helper/issues/19) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+3. 🗣 Commented on [#19](https://github.com/swoole/ide-helper/issues/19) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
 4. 🗣 Commented on [#4824](https://github.com/swoole/swoole-src/issues/4824) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-5. 💪 Opened PR [#4821](https://github.com/swoole/swoole-src/pull/4821) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+5. 🗣 Commented on [#4824](https://github.com/swoole/swoole-src/issues/4824) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
 <!--END_SECTION:activity-->
 
 </details>
