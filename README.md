@@ -19,10 +19,10 @@ Demin is a staff engineer and technical lead at Electronic Arts (EA), focusing o
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/deminy/swoole-by-examples/issues/2) in [deminy/swoole-by-examples](https://github.com/deminy/swoole-by-examples)
-2. 💪 Opened PR [#4853](https://github.com/swoole/swoole-src/pull/4853) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-3. 🗣 Commented on [#4839](https://github.com/swoole/swoole-src/issues/4839) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-4. 🗣 Commented on [#4839](https://github.com/swoole/swoole-src/issues/4839) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-5. ❗️ Closed issue [#4542](https://github.com/swoole/swoole-src/issues/4542) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+2. ❗️ Closed issue [#4839](https://github.com/swoole/swoole-src/issues/4839) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+3. 🗣 Commented on [#2](https://github.com/deminy/swoole-by-examples/issues/2) in [deminy/swoole-by-examples](https://github.com/deminy/swoole-by-examples)
+4. 💪 Opened PR [#4853](https://github.com/swoole/swoole-src/pull/4853) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+5. 🗣 Commented on [#4839](https://github.com/swoole/swoole-src/issues/4839) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
 <!--END_SECTION:activity-->
 
 </details>
