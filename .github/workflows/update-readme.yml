@@ -1,4 +1,4 @@
-name: GitHub - Activity - Readme
+name: GitHub - Activity - README
 
 on:
   schedule:
@@ -8,9 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update Demin's README with recent activities
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
