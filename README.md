@@ -20,9 +20,9 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1499](https://github.com/brefphp/bref/issues/1499) in [brefphp/bref](https://github.com/brefphp/bref)
 2. 🗣 Commented on [#1499](https://github.com/brefphp/bref/issues/1499) in [brefphp/bref](https://github.com/brefphp/bref)
-3. ❗️ Closed issue [#39](https://github.com/swoole/docker-swoole/issues/39) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-4. 🗣 Commented on [#39](https://github.com/swoole/docker-swoole/issues/39) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-5. ❗️ Opened issue [#1499](https://github.com/brefphp/bref/issues/1499) in [brefphp/bref](https://github.com/brefphp/bref)
+3. 🗣 Commented on [#1499](https://github.com/brefphp/bref/issues/1499) in [brefphp/bref](https://github.com/brefphp/bref)
+4. ❗️ Closed issue [#39](https://github.com/swoole/docker-swoole/issues/39) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+5. 🗣 Commented on [#39](https://github.com/swoole/docker-swoole/issues/39) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 <!--END_SECTION:activity-->
 
 </details>
