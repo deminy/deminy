@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.11](https://github.com/3.0.11) in [Crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff)
-2. 🚀 Published release [2.0.0](https://github.com/2.0.0) in [Crowdstar/reflection](https://github.com/Crowdstar/reflection)
-3. 🚀 Published release [1.0.4](https://github.com/1.0.4) in [Crowdstar/reflection](https://github.com/Crowdstar/reflection)
-4. 🚀 Published release [5.0.3](https://github.com/5.0.3) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-5. 🗣 Commented on [#1503](https://github.com/brefphp/bref/issues/1503) in [brefphp/bref](https://github.com/brefphp/bref)
+1. 🚀 Published release [3.0.11](https://github.com/Crowdstar/exponential-backoff/releases/tag/3.0.11) in [Crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff)
+2. 🚀 Published release [2.0.0](https://github.com/Crowdstar/reflection/releases/tag/2.0.0) in [Crowdstar/reflection](https://github.com/Crowdstar/reflection)
+3. 🚀 Published release [1.0.4](https://github.com/Crowdstar/reflection/releases/tag/1.0.4) in [Crowdstar/reflection](https://github.com/Crowdstar/reflection)
+4. 🚀 Published release [5.0.3](https://github.com/swoole/ide-helper/releases/tag/5.0.3) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+5. 🗣 Commented on [#1503](https://github.com/brefphp/bref/issues/1503#issuecomment-1510746895) in [brefphp/bref](https://github.com/brefphp/bref)
 <!--END_SECTION:activity-->
 
 </details>
