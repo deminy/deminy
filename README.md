@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/swoole/docker-swoole/issues/44#issuecomment-1659626628) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-2. 🗣 Commented on [#41](https://github.com/swoole/docker-swoole/issues/41#issuecomment-1659607526) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-3. 🗣 Commented on [#42](https://github.com/swoole/docker-swoole/issues/42#issuecomment-1659602041) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-4. 🗣 Commented on [#43](https://github.com/swoole/docker-swoole/issues/43#issuecomment-1659572595) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-5. 🚀 Published release [3.0.11](https://github.com/Crowdstar/exponential-backoff/releases/tag/3.0.11) in [Crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff)
+1. 🔒 Closed issue [#41](https://github.com/swoole/docker-swoole/issues/41) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+2. 🔒 Closed issue [#43](https://github.com/swoole/docker-swoole/issues/43) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+3. 🗣 Commented on [#44](https://github.com/swoole/docker-swoole/issues/44#issuecomment-1659626628) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+4. 🗣 Commented on [#41](https://github.com/swoole/docker-swoole/issues/41#issuecomment-1659607526) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+5. 🗣 Commented on [#42](https://github.com/swoole/docker-swoole/issues/42#issuecomment-1659602041) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 <!--END_SECTION:activity-->
 
 </details>
