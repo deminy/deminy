@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#165](https://github.com/swoole/library/issues/165) in [swoole/library](https://github.com/swoole/library)
-2. 🚀 Published release [5.1.1](https://github.com/swoole/ide-helper/releases/tag/5.1.1) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-3. 🚀 Published release [5.1.1](https://github.com/swoole/ide-helper/releases/tag/5.1.1) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-4. 🗣 Commented on [#4330](https://github.com/swoole/swoole-src/pull/4330#issuecomment-1842181982) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-5. 🗣 Commented on [#4330](https://github.com/swoole/swoole-src/pull/4330#issuecomment-1840231133) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+1. 🎉 Merged PR [#160](https://github.com/swoole/library/pull/160) in [swoole/library](https://github.com/swoole/library)
+2. 🗣 Commented on [#156](https://github.com/swoole/library/issues/156#issuecomment-1848609657) in [swoole/library](https://github.com/swoole/library)
+3. 🔒 Closed issue [#164](https://github.com/swoole/library/issues/164) in [swoole/library](https://github.com/swoole/library)
+4. 🚀 Published release [v5.0.3](https://github.com/swoole/library/releases/tag/v5.0.3) in [swoole/library](https://github.com/swoole/library)
+5. ❗ Opened issue [#165](https://github.com/swoole/library/issues/165) in [swoole/library](https://github.com/swoole/library)
 <!--END_SECTION:activity-->
 
 </details>
