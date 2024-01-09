@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.10](https://github.com/Crowdstar/couchbase3/releases/tag/v1.0.10) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
-2. 🚀 Published release [v1.0.9](https://github.com/Crowdstar/couchbase3/releases/tag/v1.0.9) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
-3. 🎉 Merged PR [#166](https://github.com/swoole/library/pull/166) in [swoole/library](https://github.com/swoole/library)
-4. 🔒 Closed issue [#7](https://github.com/deminy/behat-rest-testing/issues/7) in [deminy/behat-rest-testing](https://github.com/deminy/behat-rest-testing)
-5. 🗣 Commented on [#5224](https://github.com/swoole/swoole-src/pull/5224#issuecomment-1870060780) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+1. 🔒 Closed issue [#3](https://github.com/Crowdstar/couchbase3/issues/3) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+2. ❗ Opened issue [#22](https://github.com/Crowdstar/couchbase3/issues/22) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+3. ❗ Opened issue [#21](https://github.com/Crowdstar/couchbase3/issues/21) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+4. ❗ Opened issue [#20](https://github.com/Crowdstar/couchbase3/issues/20) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+5. ❗ Opened issue [#19](https://github.com/Crowdstar/couchbase3/issues/19) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
 <!--END_SECTION:activity-->
 
 </details>
