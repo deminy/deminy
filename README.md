@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/Crowdstar/couchbase3/issues/3) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
-2. ❗ Opened issue [#22](https://github.com/Crowdstar/couchbase3/issues/22) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
-3. ❗ Opened issue [#21](https://github.com/Crowdstar/couchbase3/issues/21) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
-4. ❗ Opened issue [#20](https://github.com/Crowdstar/couchbase3/issues/20) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
-5. ❗ Opened issue [#19](https://github.com/Crowdstar/couchbase3/issues/19) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+1. ❗ Opened issue [#23](https://github.com/Crowdstar/couchbase3/issues/23) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+2. 🔒 Closed issue [#6](https://github.com/Crowdstar/couchbase3/issues/6) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+3. 🔒 Closed issue [#3](https://github.com/Crowdstar/couchbase3/issues/3) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+4. ❗ Opened issue [#22](https://github.com/Crowdstar/couchbase3/issues/22) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+5. ❗ Opened issue [#21](https://github.com/Crowdstar/couchbase3/issues/21) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
 <!--END_SECTION:activity-->
 
 </details>
