@@ -18,10 +18,10 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.2.1](https://github.com/deminy/counit/releases/tag/0.2.1) in [deminy/counit](https://github.com/deminy/counit)
-2. ❗ Opened issue [#23](https://github.com/Crowdstar/couchbase3/issues/23) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
-3. 🔒 Closed issue [#6](https://github.com/Crowdstar/couchbase3/issues/6) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
-4. 🔒 Closed issue [#3](https://github.com/Crowdstar/couchbase3/issues/3) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
+1. 💪 Opened PR [#525](https://github.com/brefphp/extra-php-extensions/pull/525) in [brefphp/extra-php-extensions](https://github.com/brefphp/extra-php-extensions)
+2. 🔒 Closed issue [#156](https://github.com/swoole/library/issues/156) in [swoole/library](https://github.com/swoole/library)
+3. 🚀 Published release [v5.1.2](https://github.com/swoole/library/releases/tag/v5.1.2) in [swoole/library](https://github.com/swoole/library)
+4. 🚀 Published release [0.2.1](https://github.com/deminy/counit/releases/tag/0.2.1) in [deminy/counit](https://github.com/deminy/counit)
 5. ❗ Opened issue [#22](https://github.com/Crowdstar/couchbase3/issues/22) in [Crowdstar/couchbase3](https://github.com/Crowdstar/couchbase3)
 <!--END_SECTION:activity-->
 
