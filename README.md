@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/couchbase/couchbase-php-client/pull/146) in [couchbase/couchbase-php-client](https://github.com/couchbase/couchbase-php-client)
-2. 💪 Opened PR [#525](https://github.com/brefphp/extra-php-extensions/pull/525) in [brefphp/extra-php-extensions](https://github.com/brefphp/extra-php-extensions)
-3. 🔒 Closed issue [#156](https://github.com/swoole/library/issues/156) in [swoole/library](https://github.com/swoole/library)
-4. 🚀 Published release [v5.1.2](https://github.com/swoole/library/releases/tag/v5.1.2) in [swoole/library](https://github.com/swoole/library)
-5. 🚀 Published release [0.2.1](https://github.com/deminy/counit/releases/tag/0.2.1) in [deminy/counit](https://github.com/deminy/counit)
+1. 🚀 Published release [5.1.2](https://github.com/swoole/ide-helper/releases/tag/5.1.2) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+2. 🎉 Merged PR [#2](https://github.com/Crowdstar/exponential-backoff/pull/2) in [Crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff)
+3. 💪 Opened PR [#146](https://github.com/couchbase/couchbase-php-client/pull/146) in [couchbase/couchbase-php-client](https://github.com/couchbase/couchbase-php-client)
+4. 💪 Opened PR [#525](https://github.com/brefphp/extra-php-extensions/pull/525) in [brefphp/extra-php-extensions](https://github.com/brefphp/extra-php-extensions)
+5. 🔒 Closed issue [#156](https://github.com/swoole/library/issues/156) in [swoole/library](https://github.com/swoole/library)
 <!--END_SECTION:activity-->
 
 </details>
