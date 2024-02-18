@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#168](https://github.com/swoole/library/issues/168) in [swoole/library](https://github.com/swoole/library)
-2. 🗣 Commented on [#168](https://github.com/swoole/library/issues/168#issuecomment-1933004179) in [swoole/library](https://github.com/swoole/library)
-3. 🚀 Published release [5.1.2](https://github.com/swoole/ide-helper/releases/tag/5.1.2) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-4. 🎉 Merged PR [#2](https://github.com/Crowdstar/exponential-backoff/pull/2) in [Crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff)
-5. 💪 Opened PR [#146](https://github.com/couchbase/couchbase-php-client/pull/146) in [couchbase/couchbase-php-client](https://github.com/couchbase/couchbase-php-client)
+1. 🗣 Commented on [#165](https://github.com/swoole/library/issues/165#issuecomment-1949881400) in [swoole/library](https://github.com/swoole/library)
+2. 🔒 Closed issue [#165](https://github.com/swoole/library/issues/165) in [swoole/library](https://github.com/swoole/library)
+3. 💪 Opened PR [#5255](https://github.com/swoole/swoole-src/pull/5255) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+4. 🔒 Closed issue [#168](https://github.com/swoole/library/issues/168) in [swoole/library](https://github.com/swoole/library)
+5. 🗣 Commented on [#168](https://github.com/swoole/library/issues/168#issuecomment-1933004179) in [swoole/library](https://github.com/swoole/library)
 <!--END_SECTION:activity-->
 
 </details>
