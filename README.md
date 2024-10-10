@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7106](https://github.com/hyperf/hyperf/pull/7106) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-2. 🚀 Published release [5.1.4](https://github.com/swoole/ide-helper/releases/tag/5.1.4) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-3. 🗣 Commented on [#176](https://github.com/swoole/library/issues/176#issuecomment-2264632587) in [swoole/library](https://github.com/swoole/library)
-4. 🔒 Closed issue [#176](https://github.com/swoole/library/issues/176) in [swoole/library](https://github.com/swoole/library)
-5. 🔒 Closed issue [#175](https://github.com/swoole/library/issues/175) in [swoole/library](https://github.com/swoole/library)
+1. ❌ Closed PR [#7106](https://github.com/hyperf/hyperf/pull/7106) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 💪 Opened PR [#7106](https://github.com/hyperf/hyperf/pull/7106) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+3. 🚀 Published release [5.1.4](https://github.com/swoole/ide-helper/releases/tag/5.1.4) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+4. 🗣 Commented on [#176](https://github.com/swoole/library/issues/176#issuecomment-2264632587) in [swoole/library](https://github.com/swoole/library)
+5. 🔒 Closed issue [#176](https://github.com/swoole/library/issues/176) in [swoole/library](https://github.com/swoole/library)
 <!--END_SECTION:activity-->
 
 </details>
