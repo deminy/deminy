@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/swoole/docker-swoole/pull/56) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-2. 💪 Opened PR [#56](https://github.com/swoole/docker-swoole/pull/56) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-3. 🗣 Commented on [#2](https://github.com/deminy/php-bsdiff/pull/2#issuecomment-2564001548) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
-4. 🎉 Merged PR [#179](https://github.com/swoole/library/pull/179) in [swoole/library](https://github.com/swoole/library)
-5. 🚀 Published release [6.0.0-rc1](https://github.com/swoole/ide-helper/releases/tag/6.0.0-rc1) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+1. 🗣 Commented on [#178](https://github.com/swoole/library/issues/178#issuecomment-2566680050) in [swoole/library](https://github.com/swoole/library)
+2. 🔒 Closed issue [#178](https://github.com/swoole/library/issues/178) in [swoole/library](https://github.com/swoole/library)
+3. 🚀 Published release [v6.0.0](https://github.com/swoole/library/releases/tag/v6.0.0) in [swoole/library](https://github.com/swoole/library)
+4. 🚀 Published release [v5.1.3](https://github.com/swoole/library/releases/tag/v5.1.3) in [swoole/library](https://github.com/swoole/library)
+5. 🎉 Merged PR [#56](https://github.com/swoole/docker-swoole/pull/56) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 <!--END_SECTION:activity-->
 
 </details>
