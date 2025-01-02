@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#178](https://github.com/swoole/library/issues/178#issuecomment-2566680050) in [swoole/library](https://github.com/swoole/library)
-2. 🔒 Closed issue [#178](https://github.com/swoole/library/issues/178) in [swoole/library](https://github.com/swoole/library)
-3. 🚀 Published release [v6.0.0](https://github.com/swoole/library/releases/tag/v6.0.0) in [swoole/library](https://github.com/swoole/library)
-4. 🚀 Published release [v5.1.3](https://github.com/swoole/library/releases/tag/v5.1.3) in [swoole/library](https://github.com/swoole/library)
-5. 🎉 Merged PR [#56](https://github.com/swoole/docker-swoole/pull/56) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+1. 🎉 Merged PR [#5](https://github.com/deminy/swoole-by-examples/pull/5) in [deminy/swoole-by-examples](https://github.com/deminy/swoole-by-examples)
+2. 💪 Opened PR [#5](https://github.com/deminy/swoole-by-examples/pull/5) in [deminy/swoole-by-examples](https://github.com/deminy/swoole-by-examples)
+3. 🗣 Commented on [#178](https://github.com/swoole/library/issues/178#issuecomment-2566680050) in [swoole/library](https://github.com/swoole/library)
+4. 🔒 Closed issue [#178](https://github.com/swoole/library/issues/178) in [swoole/library](https://github.com/swoole/library)
+5. 🚀 Published release [v6.0.0](https://github.com/swoole/library/releases/tag/v6.0.0) in [swoole/library](https://github.com/swoole/library)
 <!--END_SECTION:activity-->
 
 </details>
