@@ -18,7 +18,7 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/swoole/ide-helper/pull/42) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+1. 🚀 Published release [v6.0.1](https://github.com/swoole/library/releases/tag/v6.0.1) in [swoole/library](https://github.com/swoole/library)
 2. 🗣 Commented on [#55](https://github.com/swoole/docker-swoole/issues/55#issuecomment-2574027079) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 3. 🔒 Closed issue [#55](https://github.com/swoole/docker-swoole/issues/55) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 4. 🎉 Merged PR [#41](https://github.com/swoole/ide-helper/pull/41) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
