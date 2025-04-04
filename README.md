@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5713](https://github.com/swoole/swoole-src/pull/5713) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-2. 🎉 Merged PR [#43](https://github.com/swoole/ide-helper/pull/43) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-3. 🚀 Published release [6.0.2](https://github.com/swoole/ide-helper/releases/tag/6.0.2) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-4. 🗣 Commented on [#44](https://github.com/swoole/ide-helper/issues/44#issuecomment-2746045701) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-5. 🔒 Closed issue [#44](https://github.com/swoole/ide-helper/issues/44) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+1. 🗣 Commented on [#57](https://github.com/swoole/docker-swoole/issues/57#issuecomment-2774493659) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+2. 🔒 Closed issue [#57](https://github.com/swoole/docker-swoole/issues/57) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+3. 💪 Opened PR [#5713](https://github.com/swoole/swoole-src/pull/5713) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+4. 🎉 Merged PR [#43](https://github.com/swoole/ide-helper/pull/43) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+5. 🚀 Published release [6.0.2](https://github.com/swoole/ide-helper/releases/tag/6.0.2) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
 <!--END_SECTION:activity-->
 
 </details>
