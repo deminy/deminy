@@ -18,7 +18,7 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#212](https://github.com/couchbase/couchbase-php-client/issues/212#issuecomment-3011772516) in [couchbase/couchbase-php-client](https://github.com/couchbase/couchbase-php-client)
+1. 🚀 Published release [5.1.8](https://github.com/swoole/ide-helper/releases/tag/5.1.8) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
 2. 🗣 Commented on [#58](https://github.com/swoole/docker-swoole/issues/58#issuecomment-2953596316) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 3. 🔒 Closed issue [#58](https://github.com/swoole/docker-swoole/issues/58) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 4. ❗ Opened issue [#212](https://github.com/couchbase/couchbase-php-client/issues/212) in [couchbase/couchbase-php-client](https://github.com/couchbase/couchbase-php-client)
