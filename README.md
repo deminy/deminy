@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [5.1.8](https://github.com/swoole/ide-helper/releases/tag/5.1.8) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-2. 🗣 Commented on [#58](https://github.com/swoole/docker-swoole/issues/58#issuecomment-2953596316) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-3. 🔒 Closed issue [#58](https://github.com/swoole/docker-swoole/issues/58) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-4. ❗ Opened issue [#212](https://github.com/couchbase/couchbase-php-client/issues/212) in [couchbase/couchbase-php-client](https://github.com/couchbase/couchbase-php-client)
-5. 🚀 Published release [6.0.2](https://github.com/swoole/ide-helper/releases/tag/6.0.2) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+1. 🗣 Commented on [#62](https://github.com/swoole/docker-swoole/issues/62#issuecomment-3454318517) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+2. 🔒 Closed issue [#61](https://github.com/swoole/docker-swoole/issues/61) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+3. 🔒 Closed issue [#59](https://github.com/swoole/docker-swoole/issues/59) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+4. 🗣 Commented on [#59](https://github.com/swoole/docker-swoole/issues/59#issuecomment-3453983676) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+5. 🗣 Commented on [#61](https://github.com/swoole/docker-swoole/issues/61#issuecomment-3453105705) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 <!--END_SECTION:activity-->
 
 </details>
