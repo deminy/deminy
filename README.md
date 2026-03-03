@@ -18,8 +18,8 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.1](https://github.com/Crowdstar/reflection/releases/tag/2.0.1) in [Crowdstar/reflection](https://github.com/Crowdstar/reflection)
-2. ❌ Closed PR [#63](https://github.com/swoole/docker-swoole/pull/63) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+1. 🚀 Published release [v3.3.7](https://github.com/Crowdstar/php-resque/releases/tag/v3.3.7) in [Crowdstar/php-resque](https://github.com/Crowdstar/php-resque)
+2. 🚀 Published release [2.0.1](https://github.com/Crowdstar/reflection/releases/tag/2.0.1) in [Crowdstar/reflection](https://github.com/Crowdstar/reflection)
 3. ❌ Closed PR [#5](https://github.com/deminy/php-bsdiff/pull/5) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
 4. ❌ Closed PR [#2](https://github.com/Crowdstar/crypt/pull/2) in [Crowdstar/crypt](https://github.com/Crowdstar/crypt)
 5. ❌ Closed PR [#19](https://github.com/swoole/awesome-swoole/pull/19) in [swoole/awesome-swoole](https://github.com/swoole/awesome-swoole)
