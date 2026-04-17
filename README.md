@@ -18,7 +18,7 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.1](https://github.com/Crowdstar/php-resque/releases/tag/v1.4.1) in [Crowdstar/php-resque](https://github.com/Crowdstar/php-resque)
+1. ❌ Closed PR [#2](https://github.com/deminy/couchbase-network-check/pull/2) in [deminy/couchbase-network-check](https://github.com/deminy/couchbase-network-check)
 2. 🚀 Published release [v1.4.0](https://github.com/Crowdstar/php-resque/releases/tag/v1.4.0) in [Crowdstar/php-resque](https://github.com/Crowdstar/php-resque)
 3. 🚀 Published release [2.0.1](https://github.com/Crowdstar/reflection/releases/tag/2.0.1) in [Crowdstar/reflection](https://github.com/Crowdstar/reflection)
 4. ❌ Closed PR [#2](https://github.com/Crowdstar/crypt/pull/2) in [Crowdstar/crypt](https://github.com/Crowdstar/crypt)
