@@ -18,10 +18,10 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.12](https://github.com/Crowdstar/exponential-backoff/releases/tag/3.0.12) in [Crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff)
-2. ❌ Closed PR [#2](https://github.com/deminy/couchbase-network-check/pull/2) in [deminy/couchbase-network-check](https://github.com/deminy/couchbase-network-check)
-3. 🚀 Published release [2.0.1](https://github.com/Crowdstar/reflection/releases/tag/2.0.1) in [Crowdstar/reflection](https://github.com/Crowdstar/reflection)
-4. ❌ Closed PR [#2](https://github.com/Crowdstar/crypt/pull/2) in [Crowdstar/crypt](https://github.com/Crowdstar/crypt)
+1. ❌ Closed PR [#6](https://github.com/deminy/php-bsdiff/pull/6) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
+2. 🗣 Commented on [#6](https://github.com/deminy/php-bsdiff/pull/6#issuecomment-4277851094) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
+3. 🚀 Published release [3.0.12](https://github.com/Crowdstar/exponential-backoff/releases/tag/3.0.12) in [Crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff)
+4. ❌ Closed PR [#2](https://github.com/deminy/couchbase-network-check/pull/2) in [deminy/couchbase-network-check](https://github.com/deminy/couchbase-network-check)
 5. ❌ Closed PR [#19](https://github.com/swoole/awesome-swoole/pull/19) in [swoole/awesome-swoole](https://github.com/swoole/awesome-swoole)
 <!--END_SECTION:activity-->
 
