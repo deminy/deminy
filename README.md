@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.3](https://github.com/Crowdstar/background-processing/releases/tag/1.0.3) in [Crowdstar/background-processing](https://github.com/Crowdstar/background-processing)
-2. ❌ Closed PR [#6](https://github.com/deminy/php-bsdiff/pull/6) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
-3. 🗣 Commented on [#6](https://github.com/deminy/php-bsdiff/pull/6#issuecomment-4277851094) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
-4. 🚀 Published release [3.0.12](https://github.com/Crowdstar/exponential-backoff/releases/tag/3.0.12) in [Crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff)
-5. ❌ Closed PR [#2](https://github.com/deminy/couchbase-network-check/pull/2) in [deminy/couchbase-network-check](https://github.com/deminy/couchbase-network-check)
+1. 🚀 Published release [0.2.0](https://github.com/deminy/php-bsdiff/releases/tag/v0.2.0) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
+2. 🚀 Published release [1.0.3](https://github.com/Crowdstar/background-processing/releases/tag/1.0.3) in [Crowdstar/background-processing](https://github.com/Crowdstar/background-processing)
+3. ❌ Closed PR [#6](https://github.com/deminy/php-bsdiff/pull/6) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
+4. 🗣 Commented on [#6](https://github.com/deminy/php-bsdiff/pull/6#issuecomment-4277851094) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
+5. 🚀 Published release [3.0.12](https://github.com/Crowdstar/exponential-backoff/releases/tag/3.0.12) in [Crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff)
 <!--END_SECTION:activity-->
 
 </details>
