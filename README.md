@@ -18,7 +18,7 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.2.0](https://github.com/deminy/php-bsdiff/releases/tag/v0.2.0) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
+1. 💪 Opened PR [#666](https://github.com/brefphp/extra-php-extensions/pull/666) in [brefphp/extra-php-extensions](https://github.com/brefphp/extra-php-extensions)
 2. 🚀 Published release [1.0.3](https://github.com/Crowdstar/background-processing/releases/tag/1.0.3) in [Crowdstar/background-processing](https://github.com/Crowdstar/background-processing)
 3. ❌ Closed PR [#6](https://github.com/deminy/php-bsdiff/pull/6) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
 4. 🗣 Commented on [#6](https://github.com/deminy/php-bsdiff/pull/6#issuecomment-4277851094) in [deminy/php-bsdiff](https://github.com/deminy/php-bsdiff)
