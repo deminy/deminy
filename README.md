@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/deminy/docker-swoole/pull/5) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
-2. 💪 Opened PR [#4](https://github.com/deminy/docker-swoole/pull/4) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
-3. 💪 Opened PR [#3](https://github.com/deminy/docker-swoole/pull/3) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
-4. 💪 Opened PR [#2](https://github.com/deminy/docker-swoole/pull/2) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
-5. 💪 Opened PR [#1](https://github.com/deminy/docker-swoole/pull/1) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
+1. ❌ Closed PR [#4](https://github.com/deminy/docker-swoole/pull/4) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
+2. ❌ Closed PR [#5](https://github.com/deminy/docker-swoole/pull/5) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
+3. ❌ Closed PR [#3](https://github.com/deminy/docker-swoole/pull/3) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
+4. 💪 Opened PR [#6114](https://github.com/swoole/swoole-src/pull/6114) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+5. ❌ Closed PR [#1](https://github.com/deminy/swoole-src/pull/1) in [deminy/swoole-src](https://github.com/deminy/swoole-src)
 <!--END_SECTION:activity-->
 
 </details>
