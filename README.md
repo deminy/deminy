@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#64](https://github.com/swoole/docker-swoole/issues/64) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-2. 🗣 Commented on [#64](https://github.com/swoole/docker-swoole/issues/64#issuecomment-5055630624) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-3. 🔒 Closed issue [#64](https://github.com/swoole/docker-swoole/issues/64) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-4. ❌ Closed PR [#4](https://github.com/deminy/docker-swoole/pull/4) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
-5. ❌ Closed PR [#5](https://github.com/deminy/docker-swoole/pull/5) in [deminy/docker-swoole](https://github.com/deminy/docker-swoole)
+1. 🚀 Published release [6.1.1](https://github.com/swoole/ide-helper/releases/tag/6.1.1) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+2. 🚀 Published release [6.1.0](https://github.com/swoole/ide-helper/releases/tag/6.1.0) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+3. 🚀 Published release [v6.2.2](https://github.com/swoole/library/releases/tag/v6.2.2) in [swoole/library](https://github.com/swoole/library)
+4. 🚀 Published release [v6.1.9](https://github.com/swoole/library/releases/tag/v6.1.9) in [swoole/library](https://github.com/swoole/library)
+5. 🚀 Published release [v6.2.1](https://github.com/swoole/library/releases/tag/v6.2.1) in [swoole/library](https://github.com/swoole/library)
 <!--END_SECTION:activity-->
 
 </details>
