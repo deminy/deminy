@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [6.1.1](https://github.com/swoole/ide-helper/releases/tag/6.1.1) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-2. 🚀 Published release [6.1.0](https://github.com/swoole/ide-helper/releases/tag/6.1.0) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-3. 🚀 Published release [v6.2.2](https://github.com/swoole/library/releases/tag/v6.2.2) in [swoole/library](https://github.com/swoole/library)
-4. 🚀 Published release [v6.1.9](https://github.com/swoole/library/releases/tag/v6.1.9) in [swoole/library](https://github.com/swoole/library)
-5. 🚀 Published release [v6.2.1](https://github.com/swoole/library/releases/tag/v6.2.1) in [swoole/library](https://github.com/swoole/library)
+1. ℹ️ Assigned PR [#187](https://github.com/swoole/library/pull/187) in [swoole/library](https://github.com/swoole/library)
+2. 🚀 Published release [6.1.9](https://github.com/swoole/ide-helper/releases/tag/6.1.9) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+3. 🚀 Published release [6.1.8](https://github.com/swoole/ide-helper/releases/tag/6.1.8) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+4. 🚀 Published release [6.2.2](https://github.com/swoole/ide-helper/releases/tag/6.2.2) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+5. 🚀 Published release [6.2.1](https://github.com/swoole/ide-helper/releases/tag/6.2.1) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
 <!--END_SECTION:activity-->
 
 </details>
