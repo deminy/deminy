@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), focusing on building high-per
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/simps/mqtt/pull/130) in [simps/mqtt](https://github.com/simps/mqtt)
-2. 🚀 Published release [0.3.3](https://github.com/deminy/counit/releases/tag/0.3.3) in [deminy/counit](https://github.com/deminy/counit)
-3. 🚀 Published release [1.1.3](https://github.com/deminy/counit/releases/tag/1.1.3) in [deminy/counit](https://github.com/deminy/counit)
-4. 🚀 Published release [0.3.2](https://github.com/deminy/counit/releases/tag/0.3.2) in [deminy/counit](https://github.com/deminy/counit)
-5. 🚀 Published release [1.1.2](https://github.com/deminy/counit/releases/tag/1.1.2) in [deminy/counit](https://github.com/deminy/counit)
+1. 🚀 Published release [0.3.4](https://github.com/deminy/counit/releases/tag/0.3.4) in [deminy/counit](https://github.com/deminy/counit)
+2. 🚀 Published release [1.1.4](https://github.com/deminy/counit/releases/tag/1.1.4) in [deminy/counit](https://github.com/deminy/counit)
+3. 💪 Opened PR [#130](https://github.com/simps/mqtt/pull/130) in [simps/mqtt](https://github.com/simps/mqtt)
+4. 🚀 Published release [0.3.3](https://github.com/deminy/counit/releases/tag/0.3.3) in [deminy/counit](https://github.com/deminy/counit)
+5. 🚀 Published release [1.1.3](https://github.com/deminy/counit/releases/tag/1.1.3) in [deminy/counit](https://github.com/deminy/counit)
 <!--END_SECTION:activity-->
 
 </details>
