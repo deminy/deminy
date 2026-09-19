@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), working with cloud-native PHP
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/simps/mqtt/pull/130) in [simps/mqtt](https://github.com/simps/mqtt)
-2. 🚀 Published release [6.1.10](https://github.com/swoole/ide-helper/releases/tag/6.1.10) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-3. 🚀 Published release [v6.1.10](https://github.com/swoole/library/releases/tag/v6.1.10) in [swoole/library](https://github.com/swoole/library)
-4. 🚀 Published release [0.3.4](https://github.com/deminy/counit/releases/tag/0.3.4) in [deminy/counit](https://github.com/deminy/counit)
-5. 🚀 Published release [1.1.4](https://github.com/deminy/counit/releases/tag/1.1.4) in [deminy/counit](https://github.com/deminy/counit)
+1. 🗣 Commented on [#64](https://github.com/swoole/docker-swoole/issues/64#issuecomment-5739810190) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+2. ℹ️ Labeled issue [#64](https://github.com/swoole/docker-swoole/issues/64) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+3. ℹ️ Assigned issue [#64](https://github.com/swoole/docker-swoole/issues/64) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
+4. 🎉 Merged PR [#130](https://github.com/simps/mqtt/pull/130) in [simps/mqtt](https://github.com/simps/mqtt)
+5. 🚀 Published release [6.1.10](https://github.com/swoole/ide-helper/releases/tag/6.1.10) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
 <!--END_SECTION:activity-->
 
 </details>
