@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), working with cloud-native PHP
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6275](https://github.com/swoole/swoole-src/pull/6275) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-2. 💪 Opened PR [#6276](https://github.com/swoole/swoole-src/pull/6276) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-3. 💪 Opened PR [#6275](https://github.com/swoole/swoole-src/pull/6275) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-4. 🎉 Merged PR [#6264](https://github.com/swoole/swoole-src/pull/6264) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-5. 🎉 Merged PR [#6257](https://github.com/swoole/swoole-src/pull/6257) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+1. 🚀 Published release [1.1.5](https://github.com/deminy/counit/releases/tag/1.1.5) in [deminy/counit](https://github.com/deminy/counit)
+2. 🎉 Merged PR [#6275](https://github.com/swoole/swoole-src/pull/6275) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+3. 💪 Opened PR [#6276](https://github.com/swoole/swoole-src/pull/6276) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+4. 💪 Opened PR [#6275](https://github.com/swoole/swoole-src/pull/6275) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+5. 🎉 Merged PR [#6264](https://github.com/swoole/swoole-src/pull/6264) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
 <!--END_SECTION:activity-->
 
 </details>
