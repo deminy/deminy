@@ -18,11 +18,11 @@ Demin is a staff engineer at Electronic Arts (EA), working with cloud-native PHP
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#65](https://github.com/swoole/docker-swoole/issues/65) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-2. 🚀 Published release [1.1.5](https://github.com/deminy/counit/releases/tag/1.1.5) in [deminy/counit](https://github.com/deminy/counit)
-3. 🎉 Merged PR [#6275](https://github.com/swoole/swoole-src/pull/6275) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-4. 💪 Opened PR [#6276](https://github.com/swoole/swoole-src/pull/6276) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-5. 💪 Opened PR [#6275](https://github.com/swoole/swoole-src/pull/6275) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+1. 🚀 Published release [6.2.4](https://github.com/swoole/ide-helper/releases/tag/6.2.4) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+2. 🚀 Published release [6.1.11](https://github.com/swoole/ide-helper/releases/tag/6.1.11) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
+3. 🚀 Published release [v6.2.4](https://github.com/swoole/library/releases/tag/v6.2.4) in [swoole/library](https://github.com/swoole/library)
+4. 🚀 Published release [v6.1.11](https://github.com/swoole/library/releases/tag/v6.1.11) in [swoole/library](https://github.com/swoole/library)
+5. ℹ️ Assigned issue [#65](https://github.com/swoole/docker-swoole/issues/65) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
 <!--END_SECTION:activity-->
 
 </details>
