@@ -3,26 +3,11 @@ Demin is a staff engineer at Electronic Arts (EA), working with cloud-native PHP
 ### Connect with me:
 
 [<img align="left" alt="https://deminy.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="deminy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="deminy | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="deminy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 [website]: https://deminy.in
 [linkedin]: https://www.linkedin.com/in/deminy
-[twitter]: https://twitter.com/deminy
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.6](https://github.com/deminy/counit/releases/tag/1.1.6) in [deminy/counit](https://github.com/deminy/counit)
-2. 🚀 Published release [0.3.5](https://github.com/deminy/counit/releases/tag/0.3.5) in [deminy/counit](https://github.com/deminy/counit)
-3. 🗣 Commented on [#65](https://github.com/swoole/docker-swoole/issues/65#issuecomment-6711360904) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-4. 🔒 Closed issue [#65](https://github.com/swoole/docker-swoole/issues/65) in [swoole/docker-swoole](https://github.com/swoole/docker-swoole)
-5. 🚀 Published release [6.2.5](https://github.com/swoole/ide-helper/releases/tag/6.2.5) in [swoole/ide-helper](https://github.com/swoole/ide-helper)
-<!--END_SECTION:activity-->
-
-</details>
+[twitter]: https://x.com/deminy
